@@ -15,20 +15,3 @@ int main()
 	std::cout << "the value pointed to by stringREF = " << refstr << std::endl;
 	return (0);
 }
-
-/*
-Write a program that contains:
-* A string variable initialized to "HI THIS IS BRAIN".
-* stringPTR: a pointer to the string.
-* stringREF: a reference to the string.
-
-Your program must print:
-* The memory address of the string variable.
-* The memory address held by stringPTR.
-* The memory address held by stringREF.
-
-And then:
-* The value of the string variable
-* The value pointed to by stringPTR.
-* The value pointer to by stringREF.
-*/
