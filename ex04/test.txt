@@ -1,0 +1,5 @@
+1 s
+2 ss
+3 sss
+4 ssss
+5 ssssss
