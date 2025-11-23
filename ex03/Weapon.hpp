@@ -3,13 +3,13 @@
 
 # include <string>
 
-class WEAPON
+class Weapon
 {
 public:
-  WEAPON(std::string type);
-  const  WEAPON &getType();
-  void setType(std::string &type);
-  ~WEAPON();
+  Weapon(std::string type);
+  const std::string &getType() const ;
+  void setType(const std::string &type);
+  ~Weapon();
 
 private:
   std::string _type;
