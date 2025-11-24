@@ -5,7 +5,7 @@
 */*.o
 *.o
 */a.out
-*/zombie*
+*/zombie
 */ex
 */game
 */numbers*
